@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 Currently learning **React Native**
+- 🌱 Currently learning **Data Structures and Algorithms**
 - 💬 Ask me about **Python** and **MERN Stack**
 - 📫 Reach me at: **12211008a@gmail.com**
 - ⚡ Fun fact: I am an Eager Learner! 
